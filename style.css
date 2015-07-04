@@ -1,0 +1,54 @@
+
+body {
+	margin: auto 20px auto auto;
+	font-family: Tahoma, Geneva, sans-serif;
+	background-color: #cbcbcb;
+	text-decoration: none;
+}
+a.{
+text-decoration: none;
+}
+.submit {
+text-decoration: none;
+	position: relative;
+	font-family: Mj_Faraj, tahoma;
+	background: #fff;
+	font-size: 26px;
+	color: #000;
+	padding: 5px 10px 7px 10px;
+	margin: 0 10px 18px 0;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border: none;
+	-moz-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.35);
+	-o-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.35);
+	-webkit-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.35);
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.35);
+}
+.submit:hover {
+	cursor: pointer;
+	color: #fff;
+	background: #ab0050;
+}
+.box {
+	width: 500px;
+	height: 300px;
+	float: left;
+}
+.box1 {
+	margin: auto;
+	width: 400px;
+	height: 300px;
+	float: right;
+}
+.vasat {
+	width: 900px;
+	float: left;
+}
+.dokme {
+	margin-left: 35px;
+}
+.footer {
+	margin-top: 500px;
+}
